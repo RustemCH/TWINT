@@ -1,0 +1,200 @@
+body{
+    background-color:slategray;
+.yekem{
+    display: flex;
+    justify-content: space-between;
+}
+.yekem h1{
+    font-size: 19px;
+    margin-top: 30px;
+}
+.yekem h1:hover{
+    color: orange;
+}
+.yekem a{
+    margin-top: 30px;
+    text-decoration: none;
+    font-size: 19px;
+}
+.yekem a:hover{
+    color: orange;
+}
+.duyem{
+    width:auto;
+    height: 80px;
+  background-color: white;
+    border-radius: 14px;
+    display: flex;
+  
+}
+.duyem.duyem:hover{
+    background-color: orange;
+}
+.duyem .erebok img{
+    width: 55px;
+    height: 55px;
+    margin: 10px 50px;
+    border: solid black 1px;
+    border-radius: 50%;
+}
+.duyem .aldi{
+   margin: 14px 10px;
+   font-size: 19px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.duyem .pare{
+margin: 25px 750px;
+font-size: 20px;
+}
+.siyem .pf{
+    font-size: 20px;
+    margin: 20px 13px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.siyem .pf:hover{
+    color: orange;
+}
+.siyem {
+    display: flex;
+    justify-content: space-between; 
+}
+.siyem a{
+    margin-top: 16px;
+    font-size: 19px;
+text-decoration: none;   
+}
+.siyem a:hover{
+    color: orange;
+}
+.carem .sup{
+    display: flex;
+    gap: 35px;
+    margin-left: 130px;
+}
+.alsvrs img{
+  border-radius: 44px;
+}
+
+.bargeld img{
+    border-radius: 44px;
+}
+.bargeld1 img{
+border-radius: 44px;
+}
+.parking img{
+border-radius: 44px;
+}
+.pencem{
+    display: flex;
+    gap: 100px;
+    font-size: 12px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.pencem  .hfh1{
+   margin-top: 10px;
+   margin-left: 195px;
+}
+.pencem  .hfh1:hover{
+    color: orange;
+}
+.pencem .hfh2{
+    margin-top: 10px;
+    margin-left:45px;
+}
+.pencem .hfh2:hover{
+    color: orange;
+}
+.pencem .hfh3{
+    margin-top: 8px;
+}
+.pencem .hfh3:hover{
+    color: orange;
+}
+.pencem .hfh4{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.pencem .hfh4:hover{
+color: orange;
+}
+.sesemin{
+    display: flex;
+    gap: 110px;
+}
+
+.senden{
+    background-color: white;
+    width: 380px;
+    height: 270px;
+    margin-top: 50px;
+    margin-left: 240px;
+    border-radius: 44px;
+}
+.senden img{
+    width: 160px;
+    height: 70px;
+    margin-top: 50px;
+    margin-left: 120px;
+}
+
+.sesemin .senden p{
+   margin-left: 145px;
+   margin-top: 20px;
+   font-size: 30px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.sesemin .senden p:hover{
+    color:orange;
+}
+.sesemin .anf img{
+    margin-top: 22px;
+    margin-left: 130px;
+    width: 120px;
+    height: 100px;
+    border-radius: 20px;
+}
+.sesemin .anf{
+    background-color: white;
+    width: 360px;
+    height: 270px;
+    margin-top: 50px;
+    border-radius: 44px;
+}
+.anf p{
+ margin-left: 50px;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.anf p:hover{
+    color: orange;
+}
+.heftem .zer{
+    background-color:orange;
+    width: 970px;
+    height: 80px;
+    margin-left: 155px;
+    margin-top: 55px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+display: flex;
+gap: 50px;
+}
+.heftem .zer:hover{
+    background-color: rebeccapurple;
+    color: yellow;
+}
+.heftem .zer img{
+    width: 60px;
+    height: 60px;
+    margin-top: 9px;
+    margin-left: 250px;
+}
+.heftem .zer p{
+ margin-top: 15px;
+ font-size: 40px;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ margin-left: 330px;
+}
+   
